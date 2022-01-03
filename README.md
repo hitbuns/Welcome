@@ -4,13 +4,13 @@
 
 ## Welcome to the Investigation
 
-#### About Me
+### About Me
 
 > I am a Developer that works around mainly Java/C#.
 
-#### Tasks to do
+### Tasks to do
 
-**ConquestMC**
+#### ConquestMC
 - [o] Graded System Core Plugin
   - [x] Graded Items
   - [x] Graded Monsters
