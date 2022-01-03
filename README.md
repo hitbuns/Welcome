@@ -27,7 +27,7 @@
     - [x] ToolCrafting
     - [x] WeaponCrafting
     - [x] ArmorCrafting
-  - [o] Daily Objective/Missions
+  - [ ] Daily Objective/Missions
   - [ ] Bosses
     - [x] Grade I - Primus
     - [x] Grade II - Toxic Tarantula
@@ -37,7 +37,7 @@
     - [ ] Grade VI - Vulcan Imperial
   - [ ] Server Economy Shop Sign System
   - [ ] PVP System
-    - [] Duels
+    - [ ] Duels
     - [x] PVPRating
   - [ ] NameTag Title System
 - [ ] Crate System
