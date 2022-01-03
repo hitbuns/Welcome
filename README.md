@@ -10,7 +10,7 @@
 
 <h3 align="left">Tasks to do</h3>
 
-#### *ConquestMC*
+#### *ConquestMC-Factions*
 
 - [ ] Graded System Core Plugin
   - [x] Graded Items
