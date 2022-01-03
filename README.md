@@ -11,6 +11,7 @@
 <h3 align="left">Tasks to do</h3>
 
 <h4 align="left">ConquestMC</h4>
+
 - [o] Graded System Core Plugin
   - [x] Graded Items
   - [x] Graded Monsters
