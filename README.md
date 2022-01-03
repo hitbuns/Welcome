@@ -12,7 +12,7 @@
 
 <h4 align="left">ConquestMC</h4>
 
-- [o] Graded System Core Plugin
+- [ ] Graded System Core Plugin
   - [x] Graded Items
   - [x] Graded Monsters
   - [x] PVERating System
@@ -28,21 +28,21 @@
     - [x] WeaponCrafting
     - [x] ArmorCrafting
   - [o] Daily Objective/Missions
-  - [o] Bosses
+  - [ ] Bosses
     - [x] Grade I - Primus
     - [x] Grade II - Toxic Tarantula
     - [x] Grade III - Rogue Warlord
-    - [] Grade IV - Psycho Berserker
-    - [] Grade V - Prototype X
-    - [] Grade VI - Vulcan Imperial
-  - [] Server Economy Shop Sign System
-  - [o] PVP System
+    - [ ] Grade IV - Psycho Berserker
+    - [ ] Grade V - Prototype X
+    - [ ] Grade VI - Vulcan Imperial
+  - [ ] Server Economy Shop Sign System
+  - [ ] PVP System
     - [] Duels
     - [x] PVPRating
-  - [o] NameTag Title System
-- [] Crate System
-- [] Server Essentials
-- [] Map
-- [] Custom Enchants
-- [] Cannon jar
-- [] AntiCheat
+  - [ ] NameTag Title System
+- [ ] Crate System
+- [ ] Server Essentials
+- [ ] Map
+- [ ] Custom Enchants
+- [ ] Cannon jar
+- [ ] AntiCheat
