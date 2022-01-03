@@ -1,14 +1,14 @@
-# TheOnlineExtrovert's Domain
+<h1 align="center">TheOnlineExtrovert's Domain</h1>
 
 ![Amelia Watson](https://images.wallpapersden.com/image/download/watson-amelia-virtual-youtuber_bGlqZ2yUmZqaraWkpJRnaWVlrWZnZWU.jpg)
 
-<h1 align="center">Welcome to the Investigation</h1>
+<h2 align="center">Welcome to the Investigation</h2>
 
-### About Me
+<h3 align="center">About Me</h3>
 
 > I am a Developer that works around mainly Java/C#.
 
-### Tasks to do
+<h3 align="center">Tasks to do</h3>
 
 #### ConquestMC
 - [o] Graded System Core Plugin
