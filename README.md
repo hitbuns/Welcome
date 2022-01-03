@@ -4,13 +4,13 @@
 
 <h2 align="center">Welcome to the Investigation</h2>
 
-<h3 align="center">About Me</h3>
+<h3 align="left">About Me</h3>
 
 > I am a Developer that works around mainly Java/C#.
 
-<h3 align="center">Tasks to do</h3>
+<h3 align="left">Tasks to do</h3>
 
-#### ConquestMC
+<h4 align="left">ConquestMC</h4>
 - [o] Graded System Core Plugin
   - [x] Graded Items
   - [x] Graded Monsters
