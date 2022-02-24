@@ -37,12 +37,12 @@
     - [ ] Grade VI - Vulcan Imperial
   - [ ] Server Economy Shop Sign System
   - [ ] PVP System
-    - [ ] Duels
     - [x] PVPRating
+    - [ ] Faction Wars
   - [ ] NameTag Title System
 - [ ] Crate System
 - [ ] Server Essentials
 - [ ] Map
-- [ ] Custom Enchants
+- [x] Custom Enchants
 - [ ] Cannon jar
 - [ ] AntiCheat
