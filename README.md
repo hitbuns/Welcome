@@ -13,6 +13,6 @@
 #### *ConquestMC - PrisonBreach*
 #### *ConquestMC - CartelTycoon*
 
-
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.35; background: url('https://github.com/hitbuns/hitbuns/blob/master/elsamunted.jpeg');]{x0000}$}
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.35; background: url('https://github.com/hitbuns/hitbuns/blob/master/elsamunted.jpeg?raw=true');]{x0000}$}
 
