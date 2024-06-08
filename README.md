@@ -14,5 +14,5 @@
 #### *ConquestMC - CartelTycoon*
 
 
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.35; background: url('https://camo.githubusercontent.com/d5bc9691905e6f4102dfb3e92fbd6dbd7d787af762405b3d5eb645ff305d61aa/68747470733a2f2f692e7974696d672e636f6d2f76692f614a4656425171572d644d2f6d617872657364656661756c742e6a7067');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.35; background: url('https://github.com/hitbuns/hitbuns/blob/master/elsamunted.jpeg');]{x0000}$}
 
